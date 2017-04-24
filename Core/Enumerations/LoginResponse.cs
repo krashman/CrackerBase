@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GUI_Cracker.Core.Enumerations
+namespace Cracker.Core.Enumerations
 {
     public enum LoginResponse
     {

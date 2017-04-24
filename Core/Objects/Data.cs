@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GUI_Cracker.Core.Objects
+namespace Cracker.Core.Objects
 {
     public class Data
     {

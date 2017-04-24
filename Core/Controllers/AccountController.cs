@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using GUI_Cracker.Core.Models;
+using Cracker.Core.Models;
 using System.Windows.Forms;
 using System.IO;
 
-namespace GUI_Cracker.Core.Controllers
+namespace Cracker.Core.Controllers
 {
     class AccountController
     {

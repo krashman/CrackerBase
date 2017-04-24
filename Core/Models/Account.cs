@@ -1,4 +1,4 @@
-﻿using GUI_Cracker.Core.Enumerations;
+﻿using Cracker.Core.Enumerations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +6,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GUI_Cracker.Core.Models
+namespace Cracker.Core.Models
 {
     public class Account
     { 
